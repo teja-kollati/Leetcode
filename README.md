@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/teja-kollati/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/teja-kollati/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/teja-kollati/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/teja-kollati/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/teja-kollati/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
