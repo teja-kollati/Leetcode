@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/teja-kollati/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/teja-kollati/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/teja-kollati/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/teja-kollati/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/teja-kollati/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
