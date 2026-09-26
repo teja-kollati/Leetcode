@@ -12,6 +12,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/teja-kollati/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/teja-kollati/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/teja-kollati/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/teja-kollati/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/teja-kollati/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/teja-kollati/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
@@ -89,6 +90,7 @@
 | [0035-search-insert-position](https://github.com/teja-kollati/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/teja-kollati/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/teja-kollati/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/teja-kollati/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +124,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/teja-kollati/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/teja-kollati/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
