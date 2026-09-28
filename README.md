@@ -15,6 +15,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/teja-kollati/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/teja-kollati/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/teja-kollati/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3668-restore-finishing-order](https://github.com/teja-kollati/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/teja-kollati/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/teja-kollati/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/teja-kollati/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/teja-kollati/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [3668-restore-finishing-order](https://github.com/teja-kollati/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/teja-kollati/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3945-digit-frequency-score](https://github.com/teja-kollati/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Divide and Conquer
