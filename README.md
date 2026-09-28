@@ -79,6 +79,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/teja-kollati/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/teja-kollati/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/teja-kollati/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/teja-kollati/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/teja-kollati/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Two Pointers
@@ -132,4 +133,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/teja-kollati/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
