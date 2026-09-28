@@ -112,6 +112,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/teja-kollati/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/teja-kollati/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/teja-kollati/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
@@ -143,4 +144,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/teja-kollati/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 <!---LeetCode Topics End-->
