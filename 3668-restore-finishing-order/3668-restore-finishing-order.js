@@ -4,17 +4,12 @@
  * @return {number[]}
  */
 var recoverOrder = function(order, friends) {
-    const map = new Map()
-    for(let o of order){
-        map.set(o, 0)
-    }
-    for(let friend of friends){
-        map.set(friend, 1)
-    }
+    const set = new Set(friends)
     const arr = []
-    for(let [key, val] of map){
-        if(val === 1){
-            arr.push(key)
+    
+    for(let o of order){
+        if(set.has(o)){
+            arr.push(o)
         }
     }
     return arr
