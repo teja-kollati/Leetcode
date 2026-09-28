@@ -14,6 +14,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/teja-kollati/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/teja-kollati/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/teja-kollati/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/teja-kollati/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3668-restore-finishing-order](https://github.com/teja-kollati/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/teja-kollati/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
@@ -68,6 +69,7 @@
 | [0326-power-of-three](https://github.com/teja-kollati/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/teja-kollati/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/teja-kollati/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [3945-digit-frequency-score](https://github.com/teja-kollati/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -148,4 +150,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/teja-kollati/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/teja-kollati/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 <!---LeetCode Topics End-->
