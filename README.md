@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/teja-kollati/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/teja-kollati/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/teja-kollati/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/teja-kollati/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/teja-kollati/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/teja-kollati/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/teja-kollati/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/teja-kollati/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/teja-kollati/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/teja-kollati/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/teja-kollati/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -91,6 +93,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/teja-kollati/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/teja-kollati/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/teja-kollati/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/teja-kollati/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
