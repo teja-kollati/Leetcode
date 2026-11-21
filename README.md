@@ -156,6 +156,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/teja-kollati/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/teja-kollati/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
