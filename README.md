@@ -93,6 +93,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/teja-kollati/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/teja-kollati/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/teja-kollati/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/teja-kollati/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -156,6 +157,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/teja-kollati/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/teja-kollati/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/teja-kollati/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Geometry
