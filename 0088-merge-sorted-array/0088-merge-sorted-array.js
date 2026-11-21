@@ -6,31 +6,21 @@
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
 var merge = function(nums1, m, nums2, n) {
-    let result = [];
+    let mi = m - 1;
+    let ni = n - 1;
+    let right = m + n - 1;
 
-    let i = 0;
-    let j = 0;
 
-    while(i < m && j < n){
-        if(nums1[i] < nums2[j]){
-            result.push(nums1[i++]);
+    while(ni >= 0){
+        if(mi >= 0 && nums1[mi] > nums2[ni]){
+            nums1[right] = nums1[mi];
+            mi--;
         }
         else{
-            result.push(nums2[j++]);
+            nums1[right] = nums2[ni];
+            ni--;
         }
+        right--;
     }
 
-    while(i < m){
-        result.push(nums1[i++]);
-    }
-
-    while(j < n){
-        result.push(nums2[j++]);
-    }
-
-    for(let i = 0; i < result.length; i++){
-        nums1[i] = result[i];
-    }
-
-    return nums1;
 };
