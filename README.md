@@ -90,6 +90,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/teja-kollati/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/teja-kollati/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/teja-kollati/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/teja-kollati/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/teja-kollati/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Two Pointers
