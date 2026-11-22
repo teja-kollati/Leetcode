@@ -55,6 +55,7 @@
 | [0268-missing-number](https://github.com/teja-kollati/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/teja-kollati/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/teja-kollati/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/teja-kollati/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/teja-kollati/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/teja-kollati/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/teja-kollati/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/teja-kollati/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/teja-kollati/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/teja-kollati/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
@@ -168,4 +170,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/teja-kollati/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/teja-kollati/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
