@@ -16,6 +16,7 @@
 | [0804-unique-morse-code-words](https://github.com/teja-kollati/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/teja-kollati/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/teja-kollati/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/teja-kollati/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/teja-kollati/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/teja-kollati/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -75,6 +76,7 @@
 | [0326-power-of-three](https://github.com/teja-kollati/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/teja-kollati/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/teja-kollati/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/teja-kollati/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [3945-digit-frequency-score](https://github.com/teja-kollati/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
@@ -123,6 +125,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/teja-kollati/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/teja-kollati/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -174,4 +177,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/teja-kollati/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/teja-kollati/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/teja-kollati/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
