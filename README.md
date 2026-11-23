@@ -19,6 +19,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/teja-kollati/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/teja-kollati/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/teja-kollati/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/teja-kollati/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/teja-kollati/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3668-restore-finishing-order](https://github.com/teja-kollati/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/teja-kollati/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
@@ -130,6 +131,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/teja-kollati/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/teja-kollati/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/teja-kollati/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/teja-kollati/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
