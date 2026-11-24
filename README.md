@@ -7,6 +7,7 @@
 | [0035-search-insert-position](https://github.com/teja-kollati/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/teja-kollati/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/teja-kollati/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/teja-kollati/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/teja-kollati/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/teja-kollati/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/teja-kollati/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -73,6 +74,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/teja-kollati/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/teja-kollati/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/teja-kollati/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/teja-kollati/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/teja-kollati/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/teja-kollati/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
