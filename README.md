@@ -72,6 +72,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/teja-kollati/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/teja-kollati/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/teja-kollati/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/teja-kollati/Leetcode/tree/main/0066-plus-one/) | Easy |
@@ -145,6 +146,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/teja-kollati/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0326-power-of-three](https://github.com/teja-kollati/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/teja-kollati/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -170,6 +172,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/teja-kollati/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/teja-kollati/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/teja-kollati/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/teja-kollati/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
