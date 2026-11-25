@@ -82,6 +82,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/teja-kollati/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/teja-kollati/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/teja-kollati/Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3945-digit-frequency-score](https://github.com/teja-kollati/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/teja-kollati/Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/teja-kollati/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/teja-kollati/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/teja-kollati/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/teja-kollati/Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
