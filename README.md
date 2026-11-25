@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/teja-kollati/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/teja-kollati/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/teja-kollati/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/teja-kollati/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/teja-kollati/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/teja-kollati/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -58,6 +59,7 @@
 | [0268-missing-number](https://github.com/teja-kollati/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/teja-kollati/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/teja-kollati/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/teja-kollati/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/teja-kollati/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
