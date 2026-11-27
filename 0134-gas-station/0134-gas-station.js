@@ -4,18 +4,15 @@
  * @return {number}
  */
 var canCompleteCircuit = function(gas, cost) {
-    let totalGas = gas.reduce((acc, value) => acc + value, 0);
-    let totalCost = cost.reduce((acc, value) => acc + value, 0);
-
-    if(totalGas < totalCost){
-        return -1;
-    }
-
+    let totalCost = 0;
+    let totalGas = 0;
     let currentGas = 0;
     let start = 0;
 
     for(let i = 0; i < gas.length; i++){
         currentGas += gas[i] - cost[i];
+        totalGas += gas[i];
+        totalCost += cost[i];
 
         if(currentGas < 0){
             currentGas = 0;
@@ -23,5 +20,5 @@ var canCompleteCircuit = function(gas, cost) {
         }
     }
 
-    return start;
+    return (totalCost > totalGas) ? -1 : start;
 };
