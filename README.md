@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/teja-kollati/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/teja-kollati/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/teja-kollati/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0134-gas-station](https://github.com/teja-kollati/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0169-majority-element](https://github.com/teja-kollati/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/teja-kollati/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/teja-kollati/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -199,4 +200,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/teja-kollati/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0134-gas-station](https://github.com/teja-kollati/Leetcode/tree/main/0134-gas-station/) | Medium |
 <!---LeetCode Topics End-->
