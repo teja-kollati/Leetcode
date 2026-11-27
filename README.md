@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/teja-kollati/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/teja-kollati/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/teja-kollati/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/teja-kollati/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/teja-kollati/Leetcode/tree/main/0066-plus-one/) | Easy |
@@ -110,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/teja-kollati/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0042-trapping-rain-water](https://github.com/teja-kollati/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/teja-kollati/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/teja-kollati/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/teja-kollati/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -147,6 +149,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/teja-kollati/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/teja-kollati/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/teja-kollati/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -170,6 +173,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/teja-kollati/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/teja-kollati/Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Bracket Sequences
@@ -204,4 +208,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/teja-kollati/Leetcode/tree/main/0134-gas-station/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/teja-kollati/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
