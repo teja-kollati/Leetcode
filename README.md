@@ -105,6 +105,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/teja-kollati/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/teja-kollati/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/teja-kollati/Leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/teja-kollati/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/teja-kollati/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Two Pointers
@@ -175,6 +176,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/teja-kollati/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/teja-kollati/Leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/teja-kollati/Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -208,8 +210,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/teja-kollati/Leetcode/tree/main/0134-gas-station/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/teja-kollati/Leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/teja-kollati/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/teja-kollati/Leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 <!---LeetCode Topics End-->
