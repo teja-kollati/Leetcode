@@ -22,6 +22,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/teja-kollati/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/teja-kollati/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/teja-kollati/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/teja-kollati/Leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/teja-kollati/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/teja-kollati/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/teja-kollati/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -175,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/teja-kollati/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [1381-design-a-stack-with-increment-operation](https://github.com/teja-kollati/Leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/teja-kollati/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/teja-kollati/Leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/teja-kollati/Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -202,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/teja-kollati/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/teja-kollati/Leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
